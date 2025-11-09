@@ -1,4 +1,4 @@
-# 📊 Data Analytics Dashboards
+#  Data Analytics Dashboards
 
 This repository contains two interactive Power BI dashboards:  
 **IMDb Movie Data Analysis** and **Passenger Travel Trends Analysis.**  
@@ -6,7 +6,7 @@ Both projects showcase data analysis, visualization, and insight generation usin
 
 ---
 
-## 🎬 IMDb Movie Data Analysis Dashboard
+##  IMDb Movie Data Analysis Dashboard
 
 ### Problem Statement
 Analyze IMDb movie data containing details such as directors, actors, genres, financials, and audience ratings to gain insights that support data-driven decisions for movie production.
@@ -27,7 +27,7 @@ Analyze IMDb movie data containing details such as directors, actors, genres, fi
 
 ---
 
-## ✈️ Passenger Travel Trends Analysis and Visualization
+##  Passenger Travel Trends Analysis and Visualization
 
 ### Introduction
 This project explores passenger travel trends across countries and months to help the travel industry understand key patterns and support decision-making.
@@ -55,4 +55,4 @@ This project explores passenger travel trends across countries and months to hel
 ## ⚙️ How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/data-analytics-dashboards.git
+   git clone https://github.com/VivekKarmakar/data_analytics_dashboards
